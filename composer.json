@@ -1,5 +1,5 @@
 {
-    "name": "Tavafi/jsonrpc",
+    "name": "tavafi/jsonrpc",
     "type": "library",
     "description": "This repository is depreciated. Created from the original repository for the web applications which are still using it.",
     "keywords": ["php", "jsonrpc", "web service", "curl", "client", "HTTP client"],
